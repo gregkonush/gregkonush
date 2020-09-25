@@ -1,0 +1,19 @@
+{
+  "name": "gregkonush",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gregkonush/gregkonush.git",
+  "author": "Greg Konush <gkonushev@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.24.65",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
