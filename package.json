@@ -11,7 +11,7 @@
     "react-dom": "^16.13.1"
   },
   "scripts": {
-    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+    "deploy": "gatsby build --prefix-paths && rm -rf docs && mkdir docs && cp -r public/ docs/"
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
