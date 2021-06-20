@@ -2,4 +2,7 @@
 
 ## Technologies that I like
 
-<img src="static/javascript.jpg" width="100"/>
+<img src="static/javascript.svg" width="50"/>
+<img src="static/typescript.svg" width="50"/>
+<img src="static/python.svg" width="50"/>
+<img src="static/kotlin.svg" width="50"/>
