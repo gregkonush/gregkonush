@@ -1,4 +1,5 @@
-## I am Greg, Software Engineer
+# Hello, I am Greg, Software Engineer
 
-### Technologies that I like
+## Technologies that I like
 
+<img src="static/javascript.jpg" width="100"/>
