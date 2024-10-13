@@ -1,6 +1,6 @@
-# Software Engineer
+# Chief Dream Builder
 
-## Technologies that I like
+## Languages that I like
 
 <div style="display: flex;">
     <img src="static/javascript.svg" alt="javascript" width="50" />
