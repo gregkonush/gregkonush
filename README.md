@@ -2,7 +2,7 @@
 
 > Chief Dream Builder Officer | Staff Software Engineer | Founding Software Engineer
 
-415-301-9454 | [gkonushev@gmail.com](mailto:gkonushev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gregkonush) | [Website](https://gregko.com) | Mountain View, CA
+[gkonushev@gmail.com](mailto:gkonushev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/gregkonush) | [Website](https://gregko.com) | Mountain View, CA
 
 ---
 
